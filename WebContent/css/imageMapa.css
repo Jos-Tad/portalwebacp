@@ -1,0 +1,12 @@
+@charset "ISO-8859-1";
+.img-guide{
+	position: relative;
+	height: 300px;
+	width: 100%;			  	
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

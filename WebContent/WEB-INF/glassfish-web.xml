@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE glassfish-web-app PUBLIC "-//GlassFish.org//DTD GlassFish Application Server 3.1 Servlet 3.0//EN" "http://glassfish.org/dtds/glassfish-web-app_3_0-1.dtd">
+<glassfish-web-app>
+    <context-root>/PortalWebACP</context-root>
+    <parameter-encoding default-charset="UTF-8"/>	
+    <property name="alternatedocroot_1" value="from=/fotosBannerAbra/* dir=\\C:\payara5\glassfish"/>
+    <property name="alternatedocroot_2" value="from=/fotosPiePaginaAbra/* dir=\\C:\payara5\glassfish"/>	
+    <property name="alternatedocroot_3" value="from=/fotosInicioAbra/* dir=\\C:\payara5\glassfish"/>	
+    <property name="alternatedocroot_4" value="from=/fotosServicioAbra/* dir=\\C:\payara5\glassfish"/>	
+    <property name="alternatedocroot_5" value="from=/fotosProductoAbra/* dir=\\C:\payara5\glassfish"/>	
+    <property name="alternatedocroot_6" value="from=/fotosEventoAbra/* dir=\\C:\payara5\glassfish"/> 
+    <property name="alternatedocroot_7" value="from=/fotosArbolAbra/* dir=\\C:\payara5\glassfish"/> 
+    <property name="alternatedocroot_8" value="from=/fotosUsuarioAbra/* dir=\\C:\payara5\glassfish"/> 	
+    <property name="alternatedocroot_8" value="from=/fotosPublicacionAbra/* dir=\\C:\payara5\glassfish"/> 
+    <property name="alternatedocroot_9" value="from=/fotosArbolAbra/* dir=\\C:\payara5\glassfish"/> 	     	 
+    <property name="alternatedocroot_10" value="from=/PDFPublicacionAbra/* dir=\\C:\payara5\glassfish"/> 	    	 
+</glassfish-web-app>
